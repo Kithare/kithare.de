@@ -1,0 +1,10 @@
+title: Kithare
+description: The website of the Kithare programming language
+show_downloads: false
+theme: jekyll-theme-slate
+
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  - _config.yml
